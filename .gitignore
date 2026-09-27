@@ -1,0 +1,6 @@
+Carpeta_Scraper_Organizada/
+*.csv
+__pycache__/
+.venv/
+venv/
+.idea/
