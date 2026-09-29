@@ -19,7 +19,7 @@ Scraper automatizado desarrollado en Python para extraer datos del catálogo de 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/fravega-price-scraper.git
+   git clone https://github.com/lautarothiagog8-glitch/fravega-price-scraper.git
 2. Instalar dependencias:
     ```bash
     pip install -r requirements.txt
